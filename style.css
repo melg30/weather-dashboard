@@ -4,3 +4,41 @@ body {
   line-height: 1.75em;
   color: white;
 }
+.opaque-bg {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+/* .white-bg {
+  background-color: #fff;
+} */
+/* .light-grey-bg {
+  background-color: #d3d3d3;
+} */
+.blue {
+  background-color: #50729f;
+  border-radius: 10px;
+}
+h1 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 60px;
+}
+
+h2,
+h3,
+h4,
+p,
+a {
+  font-family: "Alegreya Sans", sans-serif;
+  line-height: 1.5em;
+}
+
+.big-btn {
+  width: 100%;
+  border: 1px solid grey;
+  background-color: #50729f;
+  color: white;
+  text-align: left;
+}
+.weather-display {
+  width: 60px;
+}
